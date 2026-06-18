@@ -1,0 +1,4 @@
+Config,Learning Rate,Batch Size,Epochs Ran,Test Accuracy,Test Loss
+LR=0.001  | BS=64,0.001,64,14,98.07,0.0667
+LR=0.001  | BS=256,0.001,256,19,98.03,0.0692
+LR=0.0005 | BS=128,0.0005,128,16,98.19,0.0653

@@ -1,0 +1,22 @@
+MNIST Neural Network — Classification Report
+==================================================
+
+Test Accuracy : 98.37 %
+Test Loss     : 0.0628
+
+              precision    recall  f1-score   support
+
+     Digit 0       0.99      0.99      0.99       980
+     Digit 1       0.99      0.99      0.99      1135
+     Digit 2       0.98      0.99      0.98      1032
+     Digit 3       0.98      0.98      0.98      1010
+     Digit 4       0.98      0.99      0.98       982
+     Digit 5       0.98      0.98      0.98       892
+     Digit 6       0.99      0.98      0.99       958
+     Digit 7       0.97      0.98      0.98      1028
+     Digit 8       0.99      0.98      0.98       974
+     Digit 9       0.98      0.98      0.98      1009
+
+    accuracy                           0.98     10000
+   macro avg       0.98      0.98      0.98     10000
+weighted avg       0.98      0.98      0.98     10000
